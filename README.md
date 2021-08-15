@@ -1,4 +1,4 @@
-# Hello 😊, I'm Alisson - a.k.a. [SkyLiss](https://www.flowcode.com/page/skyliss)
+# Hello 😊, I'm Alisson - a.k.a. SkyLiss
 
 ## I'm web developer and student of AI and ML. I love use python as my main language
 
@@ -20,7 +20,6 @@
 ### Contact with me
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="25">](https://www.linkedin.com/in/alisson-hernandez-bb3b3b218/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="25">](https://www.instagram.com/skyliss_uwu/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="25">](https://www.twitter.com/skylissh)
 
 ### Languages and tools
