@@ -1,26 +1,24 @@
-# Hello 😊, I'm Alisson - a.k.a. SkyLiss
+# Hello 😊, I'm Alisson
 
 ## I'm web developer and student of AI and ML. I love use python as my main language
 
 ![Profile views](https://komarev.com/ghpvc/?username=skylissh&label=Profile%20views&color=blue&style=flat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/skylissh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fskylisshr&screen_name=skylissh)
 
 ---
 
-- 💻 I'm curently working on [Hermes](https://www.github.com/skylissh/hermes-api), a realtime chat built with FastAPI and React.
+- 💻 I'm curently working on [SkyLet](https://www.github.com/skylissh/skylet-discord), a discord bot for personal use.
 
 - 🌱 I'm currently leaning AI and ML with Python and [TensorFlow](https://www.tensorflow.org/).
 
 - 💡 I looking for new projects and I'm always open to new ideas.
 
-- 🌸 Fun fact: I like play games and draw on stream [Twitch](https://www.twitch.tv/skyliss_uwu)
+- 🌸 Fun fact: I like draw on my free time [Instagram](https://www.instagram.com/skylissh)
 
 ---
 
 ### Contact with me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="25">](https://www.linkedin.com/in/alisson-hernandez-bb3b3b218/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="25">](https://www.twitter.com/skylissh)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="25">](https://www.linkedin.com/in/alisson-hernandez-bb3b3b218/)
 
 ### Languages and tools
 
@@ -29,15 +27,12 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30">](https://www.typescriptlang.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30">](https://www.reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30">](https://www.angular.io/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30">](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="25">](https://www.kotlinlang.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="30">](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="30">](https://www.nodejs.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="typescript" width="30">](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30">](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30">](https://fastapi.tiangolo.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="30">](https://www.djangoproject.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30">](https://www.git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30">](https://www.flutter.dev/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="30">](https://www.figma.com/)
-[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="30">](https://www.adobe.com/products/xd.html)
 
 ### GitHub Profile Trophy
 
