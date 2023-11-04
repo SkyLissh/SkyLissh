@@ -12,8 +12,6 @@
 
 - 💡 I looking for new projects and I'm always open to new ideas.
 
-- 🌸 Fun fact: I like draw on my free time [Instagram](https://www.instagram.com/skylissh)
-
 ---
 
 ### Contact with me
