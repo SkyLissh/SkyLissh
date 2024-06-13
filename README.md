@@ -1,14 +1,14 @@
 # Hello 😊, I'm Alisson
 
-## I'm web developer and student of AI and ML. I love use python as my main language
+## I'm web developer and smobile developer. I love use Flutter and Vue
 
 ![Profile views](https://komarev.com/ghpvc/?username=skylissh&label=Profile%20views&color=blue&style=flat)
 
 ---
 
-- 💻 I'm curently working on [SkyLet](https://www.github.com/skylissh/skylet-discord), a discord bot for personal use.
+- 💻 I'm curently working on [SkyLet](https://www.github.com/skylissh/skylet-discord-js), a discord bot for personal use.
 
-- 🌱 I'm currently leaning AI and ML with Python and [TensorFlow](https://www.tensorflow.org/).
+- 🌱 I'm currently leaning React Native for mobile development.
 
 - 💡 I looking for new projects and I'm always open to new ideas.
 
