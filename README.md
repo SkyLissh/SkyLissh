@@ -1,6 +1,6 @@
 # Hello 😊, I'm Alisson
 
-## I'm web developer and smobile developer. I love use Flutter and Vue
+## I'm web developer and mobile developer. I love to use Flutter, React Native, NextJS and SolidJS
 
 ![Profile views](https://komarev.com/ghpvc/?username=skylissh&label=Profile%20views&color=blue&style=flat)
 
